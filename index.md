@@ -54,12 +54,6 @@ Some personal stuff
 - [benjilegnard/jetez-vos-souris-a-la-poubelle](https://github.com/benjilegnard/jetez-vos-souris-a-la-poubelle#readme){:target="_blank"}: Future talk
 
 
-## Talks (in french)
-
-### Construire soi-même son clavier mécanique, idée bizarre ou idée de génie
-
-- [slides](){:target="_blank"}
-
 ## How you can contact me
 
 Don't. I don't care and do not want to interact with you, but if you insist, i'm on:
