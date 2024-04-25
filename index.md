@@ -26,35 +26,48 @@ Some of my technical skills include :
 
 Is the organisation where I put all my music-related projects
 
-- [gotloop/gotloop](): an online real-time multi-user DAW
-- [gotloop/kaossillator](): a recreation of the kaossillator
-- [gotloop/ms-20](): a recreation of the korg ms-20
+- [gotloop/gotloop](https://github.com/gotloop/gotloop#readme){:target="_blank"}: an online real-time multi-user DAW
+- [gotloop/kaossillator](https://github.com/gotloop/kaossilator#readme){:target="_blank"}: a recreation of the kaossillator
+- [gotloop/ms-20](https://github.com/gotloop/ms-20#readme){:target="_blank"}: a recreation of the korg ms-20
+- [gotloop/dubsiren](https://github.com/gotloop/dubsiren#readme){:target="_blank"}: a recreation of a dub siren
 
 ### Jerzual
 
 Dead video-game ideas
 
-- []()
+- [jerzual/alone](https://github.com/jerzual/alone#readme){:target="_blank"}
+- [jerzual/azimut](https://github.com/jerzual/azimut#readme){:target="_blank"}
+- [jerzual/minesweeper](https://github.com/jerzual/minesweeper#readme){:target="_blank"}
+- [jerzual/minotaur](https://github.com/jerzual/minotaur#readme){:target="_blank"}
+- [jerzual/navale](https://github.com/jerzual/navale#readme){:target="_blank"}
+- [jerzual/oy](https://github.com/jerzual/oy#readme){:target="_blank"}
+- [jerzual/tribes](https://github.com/jerzual/tribes#readme){:target="_blank"}
+- [jerzual/zeldammo](https://github.com/jerzual/zeldammo#readme){:target="_blank"}
 
 ### Benjilegnard
 
 Some personal stuff
+
+- [benjilegnard/dotfiles](https://github.com/benjilegnard/dotfiles#readme){:target="_blank"}: my dotfiles, you may not like them, but they are mine
+- [benjilegnard/schematics](https://github.com/benjilegnard/schematics#readme){:target="_blank"}: angular schematics to generate or migrate code
+- [benjilegnard/make-your-own-keyboard](https://github.com/benjilegnard/make-your-own-keyboard#readme){:target="_blank"}: a guide to make your own keyboard
+- [benjilegnard/jetez-vos-souris-a-la-poubelle](https://github.com/benjilegnard/jetez-vos-souris-a-la-poubelle#readme){:target="_blank"}: Future talk
 
 
 ## Talks (in french)
 
 ### Construire soi-même son clavier mécanique, idée bizarre ou idée de génie
 
-- [slides]()
+- [slides](){:target="_blank"}
 
 ## How you can contact me
 
 Don't. I don't care and do not want to interact with you, but if you insist, i'm on:
 
-- [🐦twitter](https://twitter.com/benjilegnard){:target="_blank"}
-- [📸instagram](https://instagram.com/benjilegnard){:target="_blank"}
-- [📢twitch](https://twitch.tv/benjilegnard){:target="_blank"}
-- [📽️youtube](https://www.youtube.com/channel/UC1j-ULK7Dj0cfQD4dnDfWZg){:target="_blank"}
-- [👔linkedin](https://linkedin.com/l/benjilegnard){:target="_blank"}
+- [🐦 Twitter](https://twitter.com/benjilegnard){:target="_blank"}
+- [📸 Instagram](https://instagram.com/benjilegnard){:target="_blank"}
+- [📢 Twitch](https://twitch.tv/benjilegnard){:target="_blank"}
+- [📽️yYoutube](https://www.youtube.com/channel/UC1j-ULK7Dj0cfQD4dnDfWZg){:target="_blank"}
+- [👔 linkedin](https://linkedin.com/l/benjilegnard){:target="_blank"}
 
 
