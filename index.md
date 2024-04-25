@@ -1,6 +1,6 @@
 # Hi, i'm benjilegnard !
 
-![Benjamin Legrand Portrait]( https://avatars.githubusercontent.com/u/745948?v=4 ){:style="width:150px;float:left;margin-right:1em;"}
+![Benjamin Legrand Portrait]( https://avatars.githubusercontent.com/u/745948?v=4 ){:style="width:150px;float:right;margin-right:1em;"}
 
 Welcome to this github "homepage", here's a list of things i'm doing on here.
 
