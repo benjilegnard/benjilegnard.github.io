@@ -67,7 +67,7 @@ Don't. I don't care and do not want to interact with you, but if you insist, i'm
 - [🐦 Twitter](https://twitter.com/benjilegnard){:target="_blank"}
 - [📸 Instagram](https://instagram.com/benjilegnard){:target="_blank"}
 - [📢 Twitch](https://twitch.tv/benjilegnard){:target="_blank"}
-- [📽️yYoutube](https://www.youtube.com/channel/UC1j-ULK7Dj0cfQD4dnDfWZg){:target="_blank"}
-- [👔 linkedin](https://linkedin.com/l/benjilegnard){:target="_blank"}
+- [🎥 Youtube](https://www.youtube.com/channel/UC1j-ULK7Dj0cfQD4dnDfWZg){:target="_blank"}
+- [👔 LinkedIn](https://linkedin.com/in/benjilegnard){:target="_blank"}
 
 
